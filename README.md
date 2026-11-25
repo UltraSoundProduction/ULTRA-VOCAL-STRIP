@@ -1,5 +1,7 @@
 # ULTRA VOCAL STRIP
 
+![ULTRA VOCAL STRIP](file_000000007eb4821090406f8eff18186b.png)
+
 ### Professional Vocal Channel Strip – VST3 for Windows
 
 Developed by **ULTRA SOUND PRODUCTION**.
